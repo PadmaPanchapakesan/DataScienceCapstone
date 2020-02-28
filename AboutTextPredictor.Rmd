@@ -1,0 +1,15 @@
+---
+title: "About TextPredictor"
+author: "Padma P"
+date: "2/28/2020"
+---
+
+
+## Introduction to TextPredictor
+
+TextPredictor is a Shiny app  that can be used to predict the next word when a user enters some text. TextPredictor uses data sets obtained from blogs, news and tweets to predict the next word. 
+
+## User Guide
+Please enter a text in the "TextPredictor" tab and press "Submit" button.
+The next predicted word will appear in the main panel
+
